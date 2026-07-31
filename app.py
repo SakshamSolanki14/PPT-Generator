@@ -140,7 +140,7 @@ if all(ALL_API):
              generate_image]
 )
 else:
-st.info("Pass-All-API-Keys and Return")
+  st.info("Pass-All-API-Keys and Return")
 
 # ================TEP 8 NAVEBAR STREAMLIT =====================
 tab1,tab2,tab3 = st.tabs(["Generate Image",
