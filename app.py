@@ -41,7 +41,7 @@ elif all(ALL_API):
 
 else:
   st.sidebar.info("CHECK API-Keys")
-
+)
 
 # ===========STEP 5 Back-End Code ====================
 # Search_Latest_info using tavily
